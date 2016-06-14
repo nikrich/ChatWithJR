@@ -2,7 +2,7 @@
 
 # The Ultimate Open Source WebChat Platform
 
-[![Rocket.Chat](https://chatwithjr.herokuapp.com)](https://demo.rocket.chat/)
+[![Rocket.Chat](https://chatwithjr.herokuapp.com/images/join-chat.svg)](https://demo.rocket.chat/)
 [![Build Status](https://img.shields.io/travis/RocketChat/Rocket.Chat/master.svg)](https://travis-ci.org/RocketChat/Rocket.Chat)
 [![Coverage Status](https://coveralls.io/repos/github/nikrich/ChatWithJR/badge.svg?branch=develop)](https://coveralls.io/github/nikrich/ChatWithJR?branch=develop)
 [![Code Climate](https://codeclimate.com/github/nikrich/ChatWithJR/badges/gpa.svg)](https://codeclimate.com/github/nikrich/ChatWithJR)
