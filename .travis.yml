@@ -21,8 +21,6 @@ script:
 before_deploy:
 - source ".travis/setartname.sh"
 - source ".travis/setdeploydir.sh"
-- ".travis/namefiles.sh"
-- echo ".travis/sandstorm.sh"
 deploy:
   provider: s3
   access_key_id: "AKIAIKIA7H7D47KUHYCA"
